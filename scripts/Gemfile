@@ -4,7 +4,7 @@ gem 'linkeddata'
 gem 'json-ld-preloaded'
 gem 'rspec'
 gem 'rake'
-gem 'nokogiri'
+gem 'nokogiri', '>= 1.10.5'
 gem 'equivalent-xml'
 
 group :debug do
